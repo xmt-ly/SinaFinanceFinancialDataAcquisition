@@ -1,0 +1,2 @@
+# SinaFinanceFinancialDataAcquisition
+这是一个用于爬取新浪财经新闻并存储到MySQL数据库的Python爬虫。该项目旨在帮助用户自动获取和存储新浪财经网站上的最新新闻数据。
