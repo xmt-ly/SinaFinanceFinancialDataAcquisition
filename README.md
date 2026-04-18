@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 新浪财经新闻爬虫
 
 这是一个爬取新浪财经新闻并存储到MySQL数据库的Python爬虫。
@@ -100,3 +101,7 @@ CREATE TABLE IF NOT EXISTS sina_finance_news (
 ...
 2024-01-01 12:00:30,000 - INFO - 爬虫运行结束
 ```
+=======
+# SinaFinanceFinancialDataAcquisition
+这是一个用于爬取新浪财经新闻并存储到MySQL数据库的Python爬虫。该项目旨在帮助用户自动获取和存储新浪财经网站上的最新新闻数据。
+>>>>>>> e804b5cad9fe3e8ac523e2b2a3c2413260fb46bb
