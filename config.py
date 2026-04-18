@@ -1,7 +1,7 @@
 # 数据库配置
 MYSQL_HOST = '127.0.0.1'
-MYSQL_USER = 'root'
-MYSQL_PASSWORD = '980139XMT'
+MYSQL_USER = 'your_username'
+MYSQL_PASSWORD = 'new_password'
 MYSQL_PORT = 3306
 MYSQL_DATABASE = 'sina_finance'
 SQLALCHEMY_DATABASE_URI = f'mysql+mysqldb://{MYSQL_USER}:{MYSQL_PASSWORD}@{MYSQL_HOST}:{MYSQL_PORT}/{MYSQL_DATABASE}?charset=utf8mb4'
